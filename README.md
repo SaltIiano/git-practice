@@ -1,3 +1,3 @@
 <h1>Git Practice</h1>
 <h2>Made by Dubovkin Vladislav in 30.04.2025</h2>
-![Rec](/git-practice/images/rec.png)
+![Rec](images/rec.png)
