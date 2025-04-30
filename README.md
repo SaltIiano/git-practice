@@ -1,3 +1,3 @@
 <h1>Git Practice</h1>
 <h2>Made by Dubovkin Vladislav in 30.04.2025</h2>
-<img scr=https://github.com/user-attachments/assets/4a37d041-dfca-4cee-9e97-faa5952d31be>
+<img https://github.com/user-attachments/assets/6e03093e-0686-427d-9440-6eb449b917cd>
